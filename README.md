@@ -1,5 +1,5 @@
-# Siemens S7 Security Log Collector
-Siemens S7 Security Log Collector
+# Siemens S7-1500 Security Log Collector
+Siemens S7-1500 Security Log Collector
 
 The script is a collector that collects logs from the CPU of the Siemens S7 model.
 It is written in Python script and you need to install the package to use it.
